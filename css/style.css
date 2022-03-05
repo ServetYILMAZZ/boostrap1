@@ -1,0 +1,32 @@
+body {
+  background-color: #e9ecef;
+}
+.lead {
+  text-align: center;
+}
+.display-4 {
+  text-align: center;
+}
+.first-ul {
+  text-align: center;
+}
+body {
+  background-color: #e9ecef;
+}
+.main-ul {
+  text-align: center;
+  list-style-position: inside;
+}
+.card-title {
+  color: blueviolet;
+}
+.card-text {
+  border-style: solid;
+  display: inline-block;
+  border-radius: 4px;
+  background-color: rgb(145, 149, 149);
+  color: cyan;
+}
+.about-us-text {
+  text-align: center;
+}
